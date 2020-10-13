@@ -143,7 +143,6 @@ btnRandom.addEventListener('click', (e) => {
 
 
 
-
 /* 
     NOTES :
     
